@@ -1,0 +1,29 @@
+{
+  "name": "oss-at-s2-presentation-offsite-2018",
+  "version": "1.0.0",
+  "description": "Talk in markdown about how we do OpenSource at SinnerSchrader",
+  "main": "index.js",
+  "contributors":[
+    {
+      "name": "MartinHelmut",
+      "url": "https://github.com/MartinHelmut"
+    },
+    {
+      "name": "Jumace",
+      "url": "https://github.com/Jumace"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinnerschrader/oss-at-s2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinnerschrader/oss-at-s2/issues"
+  },
+  "homepage": "https://github.com/sinnerschrader/oss-at-s2#readme"
+}
