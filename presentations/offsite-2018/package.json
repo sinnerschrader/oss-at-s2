@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Talk in markdown about how we do OpenSource at SinnerSchrader",
   "main": "index.js",
-  "contributors":[
+  "contributors": [
     {
       "name": "MartinHelmut",
       "url": "https://github.com/MartinHelmut"
@@ -14,7 +14,9 @@
     }
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rm -rf dist/*",
+    "build": "npm run clean && cat src/*.md > dist/talk--opensource-at-S2.md",
+    "watch": "nodemon --watch src -e md --exec npm run build"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/sinnerschrader/oss-at-s2/issues"
   },
-  "homepage": "https://github.com/sinnerschrader/oss-at-s2#readme"
+  "homepage": "https://github.com/sinnerschrader/oss-at-s2#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
