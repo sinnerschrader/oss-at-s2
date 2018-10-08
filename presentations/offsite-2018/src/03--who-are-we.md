@@ -3,12 +3,9 @@
 
 #### Slack: **#s2-sg-opensource**
 
-^have a look at our sg wiki space
-
-^contact us over slack
-
-^we take care about the OSS wiki space
-
-^keep overview of own OSS
+^ @Julian: have a look at our sg wiki space
+^ @Julian: contact us over slack
+^ @Julian: we take care about the OSS wiki space
+^ @Julian: keep overview of own OSS
 
 ---

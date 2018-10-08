@@ -9,6 +9,8 @@ Martin Fieber
 Senior Product Engineer @ S2
 _@MartinHelmut_
 
+^ @Martin
+
 ---
 
 Julian Cebulla
@@ -17,5 +19,7 @@ Julian Cebulla
 
 Product Engineer @ S2
 _@OwlCowl_
+
+^ @Julian
 
 ---

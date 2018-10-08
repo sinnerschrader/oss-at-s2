@@ -1,5 +1,7 @@
 # [fit] OSS at S2
 
+^ @Martin
+
 ---
 
 [.build-lists: true]
@@ -10,5 +12,7 @@
 - How can I join the S2 Github Orga?
 - What projects can I add to this?
 - How can I add my project(s)?
+
+^ @Martin
 
 ---
