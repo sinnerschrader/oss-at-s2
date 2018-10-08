@@ -1,4 +1,6 @@
-# How can I join the S2 Github Orga?
+# [fit] How can I
+## [fit] **join the S2 Github**
+# [fit] Organization?
 
 ---
 

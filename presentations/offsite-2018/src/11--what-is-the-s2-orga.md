@@ -1,4 +1,5 @@
-# What is the S2 Github Organization?
+# What is the S2
+# **Github Organization**?
 
 ---
 
