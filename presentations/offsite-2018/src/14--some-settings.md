@@ -2,7 +2,38 @@
 
 ---
 
+# [fit] 2FA
+**(Two-factor authentication)**
+
+---
+
+Go to your settings ...
+
+![inline](images/github-settings.png)
+
+---
+
+Open the **security tab**
+
+![inline](images/github-security.png)
+
+---
+
+Enable 2FA
+
+![inline](images/github-2fa.png)
+
+---
+
+Follow further instructions 😎
+
+^ These will guide you through the process of enabling 2FA.
+
+---
+
 Give yourself a _public name_.
+
+^ But there is more.
 
 ---
 
@@ -10,7 +41,7 @@ It would be lovely if this would be your **real name** 😉
 
 ---
 
-Open your settings ...
+Again, open your settings ...
 
 ![inline](images/github-settings.png)
 
