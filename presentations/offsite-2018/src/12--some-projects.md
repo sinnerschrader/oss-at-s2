@@ -1,7 +1,9 @@
 [.build-lists: true]
 [.autoscale: true]
 
-## Some project on Github from S2
+# [fit] Some project
+## [fit] **on Github**
+# [fit] from S2
 
 ---
 
