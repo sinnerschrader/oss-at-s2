@@ -39,6 +39,8 @@ Give yourself a _public name_.
 
 It would be lovely if this would be your **real name** 😉
 
+^ Or your first name with one letter surname or some like that.
+
 ---
 
 Again, open your settings ...
