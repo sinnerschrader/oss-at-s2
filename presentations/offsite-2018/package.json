@@ -15,7 +15,7 @@
   ],
   "scripts": {
     "clean": "rm -rf dist/*",
-    "build": "npm run clean && mkdir -p dist && cat src/*.md > dist/talk--opensource-at-S2.md",
+    "build": "npm run clean && mkdir -p dist && cat src/*.md > dist/talk--opensource-at-S2.md && cp -r src/images dist/images",
     "watch": "nodemon --watch src -e md --exec npm run build"
   },
   "repository": {
