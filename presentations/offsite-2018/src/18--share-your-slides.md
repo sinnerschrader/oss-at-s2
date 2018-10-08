@@ -1,14 +1,16 @@
 # Can you **share** your slides?
 
+^ @Martin
+
 ---
 
 **Yes!**
 
-^ Like the topic we talked about, the slides are OpenSource
-^ And you can find them ... (next slide)
+^ @Martin: Like the topic we talked about, the slides are OpenSource
+^ @Martin: And you can find them ... (next slide)
 
 ---
 
 _github.com/sinnerschrader/oss-at-s2_
 
-^ ... here in your repository
+^ @Martin: ... here in your repository
