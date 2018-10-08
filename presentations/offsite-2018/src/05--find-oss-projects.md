@@ -2,14 +2,10 @@
 #open source
 #projects
 
-^OpenSourceFriday
-
-^github label 'good first issue'
-
-^https://www.firsttimersonly.com/
-
-^https://maintainerswanted.com/ by Felix Wu
-
-^ask us the OSS SG
+^ @Julian: OpenSourceFriday
+^ @Julian: github label 'good first issue'
+^ @Julian: https://www.firsttimersonly.com/
+^ @Julian: https://maintainerswanted.com/ by Felix Wu
+^ @Julian: ask us the OSS SG
 
 ---

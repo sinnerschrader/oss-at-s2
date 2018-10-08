@@ -5,13 +5,15 @@
 ## [fit] **on Github**
 # [fit] from S2
 
+^ @Martin
+
 ---
 
 ### SinnerSchrader Website
 
 ![inline](images/s2-website.png)
 
-^ Our widely known website
+^ @Martin: Our widely known website
 
 ---
 
@@ -19,7 +21,7 @@
 
 ![inline](images/account-tool.png)
 
-^ Our beloved account tool
+^ @Martin: Our beloved account tool
 
 ---
 
@@ -27,7 +29,7 @@
 
 ![inline](images/skillwill.png)
 
-^ The infamous SkillWill tool
+^ @Martin: The infamous SkillWill tool
 
 ---
 
@@ -35,7 +37,7 @@
 
 ![inline](images/push-the-button.png)
 
-^ The game that changed the world
+^ @Martin: The game that changed the world
 
 ---
 
@@ -43,9 +45,9 @@
 
 ![inline](images/aem-react.png)
 
-^ And of course project related work that is used in our client projects.
-^ But there are more. These where just some examples.
-^ Like you all know there is also PatternPlate (next slide).
+^ @Martin: And of course project related work that is used in our client projects.
+^ @Martin: But there are more. These where just some examples.
+^ @Martin: Like you all know there is also PatternPlate (next slide).
 
 ---
 
@@ -53,18 +55,22 @@
 
 ![inline](images/patternplate.png)
 
+^ @Martin
+
 ---
 
 ### Alva
 
 ![inline](images/alva.png)
 
-^ Both can be found in there own organization, here (next slide)
+^ @Martin: Both can be found in there own organization, here (next slide)
 
 ---
 
 _github.com/patternplate_
 
 _github.com/meetalva_
+
+^ @Martin
 
 ---

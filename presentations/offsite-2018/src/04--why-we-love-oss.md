@@ -2,9 +2,8 @@
 #[fit]💝
 #open source
 
-^love seems like a strong word
-
-^imagine now without internet
-=> linux, apache, mozilla, etc.
+^ @Julian: love seems like a strong word
+^ @Julian: imagine now without internet
+^ => linux, apache, mozilla, etc.
 
 ---
