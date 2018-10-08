@@ -1,4 +1,4 @@
-## Some settings to take care of
+## Some **settings** to take care of
 
 ---
 

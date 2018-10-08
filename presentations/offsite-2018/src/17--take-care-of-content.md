@@ -1,4 +1,5 @@
-## What should I take care of?
+## [fit] What should I
+# [fit] **take care of**?
 
 ^ You can add the following to your repository (next slide)
 
