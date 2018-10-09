@@ -2,12 +2,12 @@
 
 ---
 
-Martin Fieber
+**Martin Fieber**
 
-![](images/martin_fieber.png)
+![original](images/martin_fieber.png)
 
-Senior Product Engineer @ S2
-_@MartinHelmut_
+**Senior Product Engineer @ S2**
+**_@MartinHelmut_**
 
 ^ @Martin
 
@@ -15,7 +15,7 @@ _@MartinHelmut_
 
 Julian Cebulla
 
-![](images/julian_cebulla.png)
+![original](images/julian_cebulla.png)
 
 Product Engineer @ S2
 _@OwlCowl_
