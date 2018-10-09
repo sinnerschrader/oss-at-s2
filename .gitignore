@@ -1,8 +1,12 @@
 # node
 node_modules
 
-#macOS
+# macOS
 .DS_Store
 
-#dist folder
+# dist folder
 dist
+
+# Editor
+.vscode
+.idea
