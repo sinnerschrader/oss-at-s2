@@ -9,3 +9,23 @@
 ^ @Julian: keep overview of own OSS
 
 ---
+
+![](images/oss-sg-group.jpg)
+![](images/sg-poster.jpg)
+![](images/sg-agency-day.jpg)
+
+^ @Julian: some impressions of what we did with the SG so far
+
+---
+
+![original](images/oss-sg-group.jpg)
+![original](images/sg-poster.jpg)
+![original](images/sg-agency-day.jpg)
+
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+#[fit]FUN
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+
+^ @Julian: bottom line: FUN
+
+---
