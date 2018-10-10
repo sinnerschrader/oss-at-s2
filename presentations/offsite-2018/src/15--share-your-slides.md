@@ -1,12 +1,12 @@
 # Can you **share** your slides?
 
-^ @Martin
+^ @Martin: Therefore to share our slides (next slide).
 
 ---
 
 **Yes!**
 
-^ @Martin: Like the topic we talked about, the slides are OpenSource
+^ @Martin: You can get it from Github.
 ^ @Martin: And you can find them ... (next slide)
 
 ---

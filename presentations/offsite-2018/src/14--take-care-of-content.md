@@ -86,5 +86,6 @@ A range of OSS licenses:
 _github.com/sinnerschrader/oss-at-s2#license_
 
 ^ @Martin: Again, in our repository we provide examples for some good OSS license.
+^ @Martin: For example this presentation uses the MIT license (next slide).
 
 ---
