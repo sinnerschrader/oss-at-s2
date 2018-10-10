@@ -58,7 +58,7 @@ _github.com/sinnerschrader/oss-at-s2#readme_
 
 ---
 
-# CodeOfContuct
+# CodeOfConduct
 
 ^ @Martin: Is something that should not be missing.
 
@@ -68,7 +68,7 @@ A good starting point:
 
 _contributor-covenant.org_
 
-^ @Martin: Here they provide a CodeOfContuct in different formats ready to use.
+^ @Martin: Here they provide a CodeOfConduct in different formats ready to use.
 ^ @Martin: Using these is better than using none.
 ^ @Martin: They also provide versioning if changes appear.
 ^ @Martin: Another important thing (next slide)
