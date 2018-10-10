@@ -11,6 +11,7 @@
 ^Julian: you don't need to code to contribute
 You can proof read docs
 Test an application
-TODO: add more examples
+create a new issue
+join a discussion in an issue
 
 ---
