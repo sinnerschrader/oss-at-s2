@@ -44,7 +44,7 @@ Wiki space for OpenSource, **FAQ Page**
 _wiki.sinnerschrader.com/display/S2OSS/FAQ_
 
 ^ @Martin: Under the first bullet point: "Who are the S2 Github organization owners?"
-^ @Martin: There you can find all of them.
+There you can find all of them.
 
 ---
 
@@ -53,7 +53,7 @@ More to come ...
 ![inline](images/wiki-faq.png)
 
 ^ @Martin: But not only that. You can find other topics as well.
-^ @Martin: Like "How to configure my Github account?"
+Like "How to configure my Github account?"
 
 ---
 
