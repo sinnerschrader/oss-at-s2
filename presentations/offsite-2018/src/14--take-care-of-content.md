@@ -38,8 +38,8 @@ Therefore what contribution **would you like** ...
 ... and what **not**?
 
 ^ @Martin: This is important to help others get into your project.
-^ @Martin: And to be possible at all to contribute.
-^ @Martin: As well as ... (next slide)
+And to be possible at all to contribute.
+As well as ... (next slide)
 
 ---
 
@@ -69,9 +69,9 @@ A good starting point:
 _contributor-covenant.org_
 
 ^ @Martin: Here they provide a CodeOfConduct in different formats ready to use.
-^ @Martin: Using these is better than using none.
-^ @Martin: They also provide versioning if changes appear.
-^ @Martin: Another important thing (next slide)
+Using these is better than using none.
+They also provide versioning if changes appear.
+Another important thing (next slide)
 
 ---
 
@@ -86,6 +86,6 @@ A range of OSS licenses:
 _github.com/sinnerschrader/oss-at-s2#license_
 
 ^ @Martin: Again, in our repository we provide examples for some good OSS license.
-^ @Martin: For example this presentation uses the MIT license (next slide).
+For example this presentation uses the MIT license (next slide).
 
 ---

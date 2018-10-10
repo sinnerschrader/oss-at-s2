@@ -9,9 +9,9 @@
 ![fit](images/maintainers-wanted.png)
 
 ^ @Julian: OpenSourceFriday
-^ @Julian: https://www.firsttimersonly.com/
-^ @Julian: https://maintainerswanted.com/ by Felix Wu
-^ @Julian: github label 'good first issue'
-^ @Julian: ask us the OSS SG
+https://www.firsttimersonly.com/
+https://maintainerswanted.com/ by Felix Wu
+Github label 'good first issue'
+Ask us the OSS SG
 
 ---

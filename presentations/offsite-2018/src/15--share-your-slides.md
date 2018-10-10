@@ -7,7 +7,7 @@
 **Yes!**
 
 ^ @Martin: You can get it from Github.
-^ @Martin: And you can find them ... (next slide)
+And you can find them ... (next slide)
 
 ---
 
