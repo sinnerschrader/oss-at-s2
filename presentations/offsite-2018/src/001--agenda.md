@@ -1,11 +1,11 @@
 [.autoscale: true]
+[.build-lists: true]
 
-#Agenda
+# Agenda
 
 - Who are we
 - What is OSS
-- Open source skill group
-- Where to contribute
-- Get ready to contribute (for S2)
+- S2 Github Orga
+- Your OSS project at S2
 
 ---
