@@ -33,8 +33,8 @@ It depends 😅
 
 ![inline](images/push-the-button.png)
 
-^ Could be one example for private driven project.
-^ But the question is ... (next slide)
+^ @Martin: Could be one example for private driven project.
+But the question is ... (next slide)
 
 ---
 

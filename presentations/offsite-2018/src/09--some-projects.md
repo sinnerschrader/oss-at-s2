@@ -46,8 +46,8 @@
 ![inline](images/aem-react.png)
 
 ^ @Martin: And of course project related work that is used in our client projects.
-^ @Martin: But there are more. These where just some examples.
-^ @Martin: Like you all know there is also PatternPlate (next slide).
+But there are more. These where just some examples.
+Like you all know there is also PatternPlate (next slide).
 
 ---
 
