@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/sinnerschrader/oss-at-s2#readme",
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "1.18.9"
   }
 }
